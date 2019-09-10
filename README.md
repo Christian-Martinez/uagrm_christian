@@ -1,14 +1,14 @@
-Estudiante:Christian Lazaro Martinez Saldias. Investigación:_________________________________ Año:2019
+Estudiante:Christian Lazaro Martinez Saldias. Investigación:Venta de pasajes en la terminal Bimodal Año:2019
 
 Informe Diario de Avance: El objetivo de este informe es facilitar la transferencia de información y la colaboración entre los miembros del equipo para aumentar la productividad.
 
-FECHA:DDMMAAA
+FECHA:10/09/2019
 
-QUE HICE HASTA AHORA? hoy
+QUE HICE HASTA AHORA? Aprendi: instalacion de angular, correr un crud de angular. GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor. Consultas de BigQuery. Estructura del documento
 
-QUE ARE HOY?
+QUE ARE HOY?Exponer y correr un proyecto en angular
 
-COMO LO HARE?
+COMO LO HARE? descargare de git e instalar paquetes
 
 GUIA TRABAJO DE INVESTIGACION
 
