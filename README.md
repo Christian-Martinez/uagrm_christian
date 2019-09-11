@@ -8,13 +8,11 @@ QUE HICE HASTA AHORA? Aprendi: instalacion de angular, correr un crud de angular
 
 QUE ARE HOY?Exponer y Desarrollo de la aplicación Angular 8 CRUD
 
-COMO LO HARE? descargare de git e instalar paquetes
+COMO LO HARE? descargare de git e instalar paquetes con los pasos que dan
 
 GUIA TRABAJO DE INVESTIGACION
 
-INTRODUCCION
-
-La presente guía de presentación, permite que el alumno tome en cuenta como desarrollará y presentará el trabajo. Este trabajo de investigación debe ser elaborado, presentado y defendido en forma individual.
+ vestigación debe ser elaborado, presentado y defendido en forma individual.
 
 Se cuenta con 20 días calendario o corridos para elaborar el presente trabajo de investigación, toma en cuenta también el calendario de las fechas asignadas para la defensa. El que debe ser presentado en dos ejemplares impreso y un ejemplar en magnético, tomando en cuenta que no debe exceder entre las cincuenta hojas sin contar anexos.
 
