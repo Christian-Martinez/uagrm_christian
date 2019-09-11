@@ -6,7 +6,7 @@ FECHA:10/09/2019
 
 QUE HICE HASTA AHORA? Aprendi: instalacion de angular, correr un crud de angular. GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor. Consultas de BigQuery. Estructura del documento
 
-QUE ARE HOY?Exponer y correr un proyecto en angular
+QUE ARE HOY?Exponer y Desarrollo de la aplicación Angular 8 CRUD
 
 COMO LO HARE? descargare de git e instalar paquetes
 
