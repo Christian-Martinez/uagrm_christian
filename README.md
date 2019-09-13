@@ -1,20 +1,18 @@
-Estudiante:Christian Lazaro Martinez Saldias. Investigación:_________________________________ Año:2019
+Estudiante:Christian Lazaro Martinez Saldias. Investigación:Venta de pasajes en la terminal Bimodal Año:2019
 
 Informe Diario de Avance: El objetivo de este informe es facilitar la transferencia de información y la colaboración entre los miembros del equipo para aumentar la productividad.
 
-FECHA:DDMMAAA
+FECHA:10/09/2019
 
-QUE HICE HASTA AHORA? hoy
+QUE HICE HASTA AHORA? Aprendi: instalacion de angular, correr un crud de angular. GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor. Consultas de BigQuery. Estructura del documento
 
-QUE ARE HOY?
+QUE ARE HOY?Exponer y Desarrollo de la aplicación Angular 8 CRUD
 
-COMO LO HARE?
+COMO LO HARE? descargare de git e instalar paquetes con los pasos que dan
 
 GUIA TRABAJO DE INVESTIGACION
 
-INTRODUCCION
-
-La presente guía de presentación, permite que el alumno tome en cuenta como desarrollará y presentará el trabajo. Este trabajo de investigación debe ser elaborado, presentado y defendido en forma individual.
+ vestigación debe ser elaborado, presentado y defendido en forma individual.
 
 Se cuenta con 20 días calendario o corridos para elaborar el presente trabajo de investigación, toma en cuenta también el calendario de las fechas asignadas para la defensa. El que debe ser presentado en dos ejemplares impreso y un ejemplar en magnético, tomando en cuenta que no debe exceder entre las cincuenta hojas sin contar anexos.
 
